@@ -9,7 +9,8 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		System.out.println("Create conflict");
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.println("Create conflict");
+		System.out.println("Application Started Successfully");
+
 	}
 
 }
